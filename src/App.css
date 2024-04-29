@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+}
+.question-card {
+  margin: 0 auto;
+  background-color: #b6fffa;
+  padding: 16px;
+  border-radius: 16px;
+  color: rgb(249, 49, 142);
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+
+  width: 80%;
+  height: auto;
+}
+ul {
+  list-style: none;
+}
+li {
+  background-color: rgb(218, 246, 141);
+  padding: 16px;
+  border: 3px solid whitesmoke;
+  font-size: 20px;
+  margin-top: 8px;
+  border-radius: 18px;
+}
+.question-text {
+  color: rgb(44, 94, 245);
+  font-size: 24px;
+}
+.final-result {
+  margin: 0 auto;
+  background-color: #b6fffa;
+  padding: 16px;
+  border-radius: 16px;
+  color: rgb(249, 49, 142);
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+
+  width: 50%;
+  height: auto;
+}
+button {
+  background-color: #ee9322;
+  border: none;
+  color: white;
+  padding: 16px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 24px;
+}
+#tsparticles {
+  height: 100vh;
+  width: 100vw;
+}
